@@ -1,6 +1,6 @@
 <div align="center">
   <h3>💁🏻‍♂️PROFILE</h3>
-  <h2> Hi 👐  I'm psy, learning dev in Republic of Korea, Seoul.</h2>
+  <h2> Hi. I'm psy, learning programming in Republic of Korea, Seoul.</h2>
 
 <br>
 
