@@ -1,9 +1,6 @@
 <div align="center">
   <h3>💁🏻‍♂️PROFILE</h3>
-<p>
-<h4>Hello! I am currently specializing in Computer Science and enhancing my skills in Java Web Programming and Big Data Analysis by Python.</h4>
-<h4>Below are my personal information and projects! Any queries, please do not hesitate to contact me through Contacts!</h4>
-</p>
+
 
 <br>
 
@@ -28,18 +25,16 @@
 <br>
 
 #
-<!-- ### 🏢EXPERIENCE 
 
-Tjeoun IT Academy
-Java Web Programming & Hadoop BigData Anaylsis by Python
-2022-01-24 ~ 2022-07-27 -->
 
 <br>
 
 <h3>🌟CONTACTS </h3>
 <br>
 <p align="center">
-<a href="https://open.kakao.com/o/sk0R4K9d/"><img src="https://img.shields.io/badge/KakaoTalk-F7DF1E?style=flat-square&logo=KakaoTalk&logoColor=white&link="https://open.kakao.com/o/sk0R4K9d/" style="width:auto; height:30px;"></a>
+<a href="mailto:polkmn222@gmail.com"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link="mailto:polkmn222@gmail.com"></a>
+<a href="mailto:polkmn222@naver.com"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/-Naver-brightgreen?style=flat-square&logo=Naver&logoColor=white&link="mailto:polkmn222@naver.com"></a>
+<a href="https://open.kakao.com/o/sHmgwxbe"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/KakaoTalk-F7DF1E?style=flat-square&logo=KakaoTalk&logoColor=white&link="https://open.kakao.com/o/sHmgwxbe"></a>
 
 
 </p>
