@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"  style="width:auto; height:30px;"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="width:auto; height:30px;"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" style="width:auto; height:30px;"/>
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white" style="width:auto; height:30px;"/>
+
 </p>
 
 <br>
@@ -43,8 +43,6 @@ Java Web Programming & Hadoop BigData Anaylsis by Python
 <p align="center">
 <a href="https://open.kakao.com/o/sk0R4K9d/"><img src="https://img.shields.io/badge/KakaoTalk-F7DF1E?style=flat-square&logo=KakaoTalk&logoColor=white&link="https://open.kakao.com/o/sk0R4K9d/" style="width:auto; height:30px;"></a>
 
-<a href="https://timmer.tistory.com/"><img src="https://img.shields.io/badge/TSTORY-gray?style=flat-square&logo=Kakao&logoColor=white&link="https://timmer.tistory.com/" style="width:auto; height:30px;"></a>
-<a href="mailto:polkmn222@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link="mailto:polkmn222@gmail.com" style="width:auto; height:30px;"></a>
 
 </p>
 
