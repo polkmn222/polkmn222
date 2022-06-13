@@ -42,7 +42,7 @@
 <br>
 <br>
 
-[![polkmn222](https://github-readme-stats.vercel.app/api?username=polkmn222&show_icons=true&theme=vue)](https://github.com/polkmn222)[![polkmn222](https://github-readme-stats.vercel.app/api/top-langs/?username=polkmn222&show_icons=true&hide_border=true&title_color=42b883&layout=compact)](https://github.com/polkmn222)
+<!-- [![polkmn222](https://github-readme-stats.vercel.app/api?username=polkmn222&show_icons=true&theme=vue)](https://github.com/polkmn222)[![polkmn222](https://github-readme-stats.vercel.app/api/top-langs/?username=polkmn222&show_icons=true&hide_border=true&title_color=42b883&layout=compact)](https://github.com/polkmn222) -->
 
 
 <!-- ### 🎓EDUCATION 
