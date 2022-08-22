@@ -20,6 +20,8 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"  style="width:auto; height:30px;"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="width:auto; height:30px;"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" style="width:auto; height:30px;"/>
+![php](https://user-images.githubusercontent.com/100742360/185857771-a84a8d3e-fd59-48ad-ad14-7489173e9e94.svg)
+
 
 </p>
 
